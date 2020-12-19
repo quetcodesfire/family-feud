@@ -1,0 +1,84 @@
+{
+"Name a way Santa would get in hour house if you don't have a chimney": [
+    [
+      "Front Door",
+      26
+    ],
+    [
+      "Back Door",
+      21
+    ],
+    [
+      "Window",
+      18
+    ],
+    [
+      "Balcony/Patio",
+      12
+    ],
+    [
+      "Garrage",
+      7
+    ],
+    [
+      "Magic",
+      6
+    ]
+  ],
+  "Name a character from The Grinch, other than the Grinch himself": [
+    [
+      "Cindy Lou Who",
+      18
+    ],
+    [
+      "Max",
+      13
+    ],
+    [
+      "Martha May Whovier",
+      9
+    ],
+    [
+      "Lou Lou Who",
+      8
+    ],
+    [
+      "Mayor Agustus Maywho",
+      6
+    ],
+    [
+      "Stu Lou Who",
+      3
+    ],
+    [
+      "Betty Lou Who",
+      2
+    ],
+    [
+      "Whobris",
+      1
+    ]
+  ],
+  "Name a $10 Secret Santa gift you would buy for a co-worker": [
+    [
+      "Gift Card",
+      15
+    ],
+    [
+      "Book",
+      14
+    ],
+    [
+      "Socks",
+      12
+    ],
+    [
+      "Candle",
+      5
+    ],
+    [
+      "Tie",
+      4
+    ]
+  ]
+}

@@ -1,0 +1,68 @@
+{
+
+ "Name an item used to create Frosty the Snowman?": [
+    [
+      "Old Silk Hat",
+      24
+    ],
+    [
+      "Corn Cob Pipe",
+      18
+    ],
+    [ "Button Nose",
+      12
+    ],
+    [
+      "Eyes made out of Coal",
+      6
+    ]
+  ],
+  "What's Another Name For Santa Clause": [
+    [
+      "Saint Nick",
+      30
+    ],
+    [
+      "Kris Kringle",
+      17
+    ],
+    [
+      "Father Christmas",
+      9
+    ],
+    [
+      "Papa Noel",
+      3
+    ],
+    [
+      "Pelznickel",
+      1
+    ]
+  ],
+  "Name a snack you would leave for Santa if you didn't have cookies and milk": [
+    [
+      "Brownies",
+      18
+    ],
+    [
+      "Coffee",
+      12
+    ],
+    [
+      "Donuts",
+      10
+    ],
+    [
+      "Pie",
+      9
+    ],
+    [
+      "Hot Chocolate",
+      7
+    ],
+    [
+      "Tea",
+      1
+    ]
+  ]
+}
